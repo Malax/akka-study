@@ -1,0 +1,9 @@
+[0m[[0m[0mdebug[0m] [0m[0mPackaging /Users/smiyazato/Programs/akka/target/scala-2.12/ping_2.12-1.0.jar ...[0m
+[0m[[0m[0mdebug[0m] [0m[0mInput file mappings:[0m
+[0m[[0m[0mdebug[0m] [0m[0m	PingPongServer.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/smiyazato/Programs/akka/target/scala-2.12/classes/PingPongServer.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	PingPongServer$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/smiyazato/Programs/akka/target/scala-2.12/classes/PingPongServer$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	PingPongServer$delayedInit$body.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/smiyazato/Programs/akka/target/scala-2.12/classes/PingPongServer$delayedInit$body.class[0m
+[0m[[0m[0mdebug[0m] [0m[0mDone packaging.[0m
